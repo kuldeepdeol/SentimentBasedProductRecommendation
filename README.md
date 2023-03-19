@@ -10,9 +10,9 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 
 ### Solution
 
-* github link: https://github.com/lingabalaji17/SentimentBasedProductRecommendation
+* github link:https://github.com/kuldeepdeol/SentimentBasedProductRecommendation
 
-* Heroku (Application is Live): https://senti-product-recommendation.herokuapp.com/
+
 
 ### Built with
 
